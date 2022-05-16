@@ -21,7 +21,7 @@
 
 ### :blush: Talking about Personal Stuffs:
 
-<img align="right" height="250" width="400" alt="Tanvir Faysal" src="https://cdn.dribbble.com/users/1732368/screenshots/11289837/media/76e727c463f701fb15ea3925d66d5947.gif" />
+<img align="right" height="250" width="400" alt="Tanvir Faysal" src="https://iconscout.com/lottie/expert-developer-4990923" />
 
 -  💻 &nbsp; I love exploring new tech stacks and building cool stuff.
 -  📰 &nbsp; Reading tech blogs whenever possible.
@@ -44,13 +44,13 @@
       <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="48" height="48" alt="HTML" />
       </a>
-      <br>HTML 5
+      <br>HTML
     </td>
     <td align="center" width="96">
       <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="48" height="48" alt="CSS" />
       </a>
-      <br>CSS 3
+      <br>CSS
     </td>
     <td align="center" width="96">
       <a href="#">
@@ -80,7 +80,7 @@
       <a href="#" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="48" height="48" alt="Bootstrap" />
       </a>
-      <br>Bootstrap 5
+      <br>Bootstrap
     </td>
     <td align="center" width="96">
       <a href="#">
@@ -90,12 +90,10 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" width="48" height="48" alt="GraphQL" />
+        <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="48" height="48" alt="GraphQL" />
       </a>
       <br>GraphQL
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96"> 
       <a href="#" >
         <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="48" height="48" alt="TypeScript" />
@@ -104,10 +102,12 @@
     </td>
      <td align="center" width="96">
       <a href="#" >
-        <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" width="48" height="48" alt="Microsoft .Net" />
+        <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" width="48" height="48" alt="Microsoft .Net" />
       </a>
       <br>Microsoft .Net
     </td>
+    </tr>
+    <tr>
     <td align="center" width="96">
       <a href="#" >
         <img src="https://www.kindpng.com/picc/m/765-7652239_react-native-svg-logo-hd-png-download.png" width="48" height="48" alt="React Native" />
@@ -119,18 +119,6 @@
         <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="48" height="48" alt="Github" />
       </a>
       <br>Github
-    </td>
-    <td align="center"  width="96">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="VScode" />
-      </a>
-      <br>VScode
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/terminal-1.svg" width="48" height="48" alt="Terminal" />
-      </a>
-      <br>Terminal
     </td>
     <td align="center"  width="96">
       <a href="#">
@@ -152,13 +140,13 @@
     </td>
     <td align="center" width="96">
       <a href="#" >
-        <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg" width="48" height="48" alt="Wordpress" />
+        <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" width="48" height="48" alt="Wordpress" />
       </a>
       <br>Wordpress
     </td>
     <td align="center" width="96">
       <a href="#" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/WooCommerce_logo.svg/220px-WooCommerce_logo.svg.png" width="48" height="48" alt="WooCommerce" />
+        <img src="https://img.icons8.com/color/480/000000/woocommerce.png" width="48" height="48" alt="WooCommerce" />
       </a>
       <br>WooCommerce
     </td>
@@ -176,7 +164,7 @@
     </td>
     <td align="center" width="96">
       <a href="#" >
-        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-ar21.svg" width="48" height="48" alt="Adobe Illustrator" />
+        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="48" height="48" alt="Adobe Illustrator" />
       </a>
       <br>Adobe Illustrator
     </td>
@@ -225,20 +213,18 @@ const tanvir11 = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<summary><b>⚡ Recent GitHub Activity</b></summary>
+### ⚡ &nbsp;Recent GitHub Activity
   
 <a href="https://github.com/tanvir-faysal-xeon"><img alt="tanvir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tanvir-faysal-xeon&custom_title=Tanvir's%20Contribution%20Graph&theme=react-dark" /></a>
    
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-
 <div align="center">
-<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
+<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60px"></a>
 </h3> 
 <p align="center">
     <a href="https://www.linkedin.com/in/tanvir-faysal-tf11/" target="_blank"><img alt="LinkedIn" width="25px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a>
-    <a href="https://www.instagram.com/tanvirfaysal11/" target="_blank"><img alt="Instagram" width="25px" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"></a>
+    <a href="https://www.instagram.com/tanvirfaysal11/" target="_blank"><img alt="Instagram" width="25px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"></a>
     <a href="https://www.facebook.com/tanvir.faysal.11/" target="_blank"><img alt="Facebook" width="25px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg"></a>
     <a href="mailto:t.faysal45@gmail.com" target="_blank"><img alt="Gmail" width="25px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"></a> 
 </p>  
-
