@@ -21,7 +21,7 @@
 
 ### :blush: Talking about Personal Stuffs:
 
-<img align="right" height="250" width="400" alt="Tanvir Faysal" src="https://iconscout.com/lottie/expert-developer-4990923" />
+<img align="right" height="250" width="400" alt="Tanvir Faysal" src="assets/profile.gif" />
 
 -  💻 &nbsp; I love exploring new tech stacks and building cool stuff.
 -  📰 &nbsp; Reading tech blogs whenever possible.
