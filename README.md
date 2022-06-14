@@ -1,7 +1,8 @@
 <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hey! Nice to see you </h1>
 
 <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=tanvir-faysal-xeon" alt="tanvir-faysal-xeon"/>       
+     <img src="https://visitor-badge.laobi.icu/badge?page_id=tanvir-faysal-xeon" alt="Visitor"/>
+<!--     <img src="https://komarev.com/ghpvc/?username=tanvir-faysal-xeon" alt="tanvir-faysal-xeon"/>        -->
     <a href="https://github.com/tanvir-faysal-xeon?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/tanvir-faysal-xeon" alt="Repos"/></a> 
     <img src="https://badges.pufler.dev/years/tanvir-faysal-xeon" alt="Active_Years"/>  
     <a href="https://github.com/tanvir-faysal-xeon/tanvir-faysal-xeon" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/tanvir-faysal-xeon" alt="commits"/>   
