@@ -191,9 +191,10 @@ const tanvir11 = {
    askMeAbout: ['web dev', 'tech', 'designer'],
    technologies: {
       web: {
-         frontEnd: ['ReactJS', 'NextJS', 'Bootstrap', 'Tailwind CSS'],
+         frontEnd: ['ReactJS', 'NextJS', 'Bootstrap', 'Material Ui'],
          backEnd: ['ASP .Net', 'GraphQL',],
       },
+      mobile: ['React Native'],
       databases: ['MySql', 'MSSql'],
       vps: ['DigitalOcean']
    },
