@@ -233,10 +233,10 @@ const tanvir11 = {
 <a href="https://www.facebook.com/tanvir.faysal.11/"><img src="https://img.shields.io/badge/-@tanvir.faysal.11-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
-Credits: [Tanvir Faysal](https://github.com/tanvir-faysal-xeon)
+Created by: [Tanvir Faysal](https://github.com/tanvir-faysal-xeon)
  
 <!-- <div align="center">
-<h2> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="assets/Handshake.gif" width="28px" height="28px"></a></h2> 
+<h2> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="assets/Handshake.gif" width="32px" height="28px"></a></h2> 
 <p align="center">
     <a href="https://www.linkedin.com/in/tanvir-faysal-tf11/" target="_blank"><img alt="LinkedIn" width="25px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a>
     <a href="https://www.instagram.com/tanvirfaysal11/" target="_blank"><img alt="Instagram" width="25px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"></a>
