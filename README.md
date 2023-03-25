@@ -3,7 +3,7 @@
 <p align="center"> 
      <img src="https://visitor-badge.laobi.icu/badge?page_id=tanvir-faysal-xeon" alt="Visitor"/>
 <!--     <img src="https://komarev.com/ghpvc/?username=tanvir-faysal-xeon" alt="tanvir-faysal-xeon"/>        -->
-    <a href="https://github.com/tanvir-faysal-xeon?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/tanvir-faysal-xeon" alt="Repos"/></a> 
+<!--     <a href="https://github.com/tanvir-faysal-xeon?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/tanvir-faysal-xeon" alt="Repos"/></a>  -->
     <img src="https://badges.pufler.dev/years/tanvir-faysal-xeon" alt="Active_Years"/>  
     <a href="https://github.com/tanvir-faysal-xeon/tanvir-faysal-xeon" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/tanvir-faysal-xeon" alt="commits"/>   
     <a href="https://github.com/tanvir-faysal-xeon?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/tanvir-faysal-xeon?color=4C1&logo=github"></a>
