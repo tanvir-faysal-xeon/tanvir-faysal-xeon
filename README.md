@@ -229,7 +229,7 @@ const tanvir11 = {
 <a href="https://tanvirfaysal11.github.io/"><img src="https://img.shields.io/badge/-tanvirfaysal11.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/tanvir-faysal-tf11/"><img src="https://img.shields.io/badge/-Tanvir%20Faysal-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:t.faysal45@gmail.com"><img src="https://img.shields.io/badge/-t.faysal45@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/tanvirfaysal11/"><img src="https://img.shields.io/badge/-@tanvirfaysal11-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<!-- <a href="https://www.instagram.com/tanvirfaysal11/"><img src="https://img.shields.io/badge/-@tanvirfaysal11-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> -->
 <a href="https://www.facebook.com/tanvir.faysal.11/"><img src="https://img.shields.io/badge/-@tanvir.faysal.11-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
