@@ -217,7 +217,7 @@ const tanvir11 = {
 
 ### ⚡ &nbsp;Recent GitHub Activity
   
-<a href="https://github.com/tanvir-faysal-xeon"><img alt="tanvir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tanvir-faysal-xeon&custom_title=Tanvir's%20Contribution%20Graph&theme=react-dark" /></a>
+<a href="https://github.com/tanvir-faysal-xeon"><img alt="tanvir's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=tanvir-faysal-xeon&theme=dracula)](https://github.com/tanvir-faysal-xeon/github-readme-activity-graph" /></a>
    
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
